@@ -18,7 +18,7 @@ public robot (){
 }
 
 // constructeur
-
+// constructeur avec un argument en chaine de caractères manquant 
 public robot (String nom, position P , direction D){
     this.name = "nom";
     this.P = P;
